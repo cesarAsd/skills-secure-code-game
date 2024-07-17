@@ -296,6 +296,8 @@ Thumbs.db
 *.idb
 *.pdb
 
+.yml
+
 # Kernel Module Compile Results
 # *.mod*
 *.cmd
